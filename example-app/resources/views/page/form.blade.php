@@ -16,6 +16,8 @@
             </div>
         @endif
 
+        <input type="hidden" name="id" value="{{isset($page) ? $page->id : ''}}">
+
         <div>
             <a href="{{route('page')}}">
                 Назад
@@ -29,9 +31,12 @@
             </label>
         </div>
         <div>
+
             <label>
                 Контент
-                <input type="text" name="body" value="{{isset($page) ? $page->body : old('body')}}">
+                <textarea name="body" id="" cols="30" rows="10">
+                {{isset($page) ? $page->body : old('body')}}
+            </textarea>
             </label>
         </div>
         <button type="submit">Сохранить</button>

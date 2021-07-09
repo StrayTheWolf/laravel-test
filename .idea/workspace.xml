@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c114beb5-5651-4287-9d75-d60eb646ee90" name="Default Changelist" comment="" />
+    <list default="true" id="c114beb5-5651-4287-9d75-d60eb646ee90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Http/Controllers/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/page/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/page/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/page/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/page/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/page/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/page/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/user/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/user/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/user/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/user/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/user/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/user/show.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +23,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uxMui4i8YRM8gQo6ALdhJc9tZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625603010300</updated>
-      <workItem from="1625603011372" duration="42221000" />
+      <workItem from="1625603011372" duration="49276000" />
     </task>
     <servers />
   </component>

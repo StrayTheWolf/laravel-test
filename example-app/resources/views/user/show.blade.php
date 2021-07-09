@@ -12,7 +12,7 @@
         Назад к списку пользователей
     </a>
 
-    <table border="1">
+    <table border="1" class="table table-striped table-bordered">
         <tbody>
         <tr>
             <td>

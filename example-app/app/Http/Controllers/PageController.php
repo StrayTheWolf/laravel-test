@@ -3,8 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\Page;
-use App\Models\User;
-use Hash;
 use Illuminate\Http\Request;
 
 class PageController extends Controller
@@ -38,10 +36,10 @@ class PageController extends Controller
     {
         $request->validate([
             'title' => 'required|max:255',
-            'body' => 'required' . $request->get('id'),
+            'body' => 'required'
         ]);
 
-        User::updateOrCreate([
+        Page::updateOrCreate([
             'id' => $request->get('id')
 
         ], [

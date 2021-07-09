@@ -11,7 +11,7 @@
         Создать новую страницу
     </a>
 
-    <table border="1">
+    <table border="1" class="table table-striped table-bordered">
         <thead>
         <tr>
             <th>Имя страницы</th>

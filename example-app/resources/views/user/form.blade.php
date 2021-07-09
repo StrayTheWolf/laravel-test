@@ -16,6 +16,8 @@
             </div>
         @endif
 
+        <input type="hidden" name="id" value="{{isset($user) ? $user->id : ''}}">
+
         <div>
             <a href="{{route('user')}}">
                 Назад
